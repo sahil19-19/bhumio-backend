@@ -20,7 +20,16 @@ cd bhumio-backend
 npm install
 ```
 
-### **3️⃣ Run the App**
+### **3️⃣ Setup .env file**
+```
+PORT=...
+CLOUDINARY_CLOUD_NAME='...'
+CLOUDINARY_API_KEY='...'
+CLOUDINARY_API_SECRET='...'
+FRONTEND_URL=...
+```
+
+### **4️⃣ Run the App**
 
 ```bash
 npm run start:dev
