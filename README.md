@@ -42,6 +42,12 @@ npm run start:dev
 ![image](https://github.com/user-attachments/assets/c07e45dd-79d4-4e08-9e6b-8840ad4097ef)
 
 
+##  API end-points
+
+![image](https://github.com/user-attachments/assets/dee4b8b5-0442-4916-b248-1c3031e81bb4)
+
+![image](https://github.com/user-attachments/assets/3801c42c-39c0-410b-88ed-80d78d652b25)
+
 ##  Frontend Repository
 
 ```bash
